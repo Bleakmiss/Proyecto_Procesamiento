@@ -89,7 +89,6 @@ with mp_hands.Hands(
 
                 tipo=Knnp(lista) #Uso de funcion para aplicar Knn
                 lista=[] #Reinicio de lista
-                print(tipo)
 
 
                 ##Movimiento Mouse
